@@ -1,6 +1,6 @@
 # Real-time Weather web App
 
-![Main Weather Interface](https://res.cloudinary.com/dnsjdvzdn/image/upload/v1744455372/Screenshot_2025-04-12_162453_ggmrgw.png)
+![Main Weather Interface](https://res.cloudinary.com/dnsjdvzdn/image/upload/v1744455526/Screenshot_2025-04-12_162759_lranhb.png)
 *Figure 1*
 
 ![Recent Searches Section](https://res.cloudinary.com/dnsjdvzdn/image/upload/v1744455368/Screenshot_2025-04-12_162523_upbvag.png)
