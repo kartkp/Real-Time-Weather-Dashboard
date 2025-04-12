@@ -1,7 +1,10 @@
 # Weather App with Recent Search History
 
-![Weather App Screenshot]([(https://res.cloudinary.com/dnsjdvzdn/image/upload/v1744454470/Screenshot_2024-10-12_190113_c3stie.png))
-![Weather App Screenshot]([https://res.cloudinary.com/dnsjdvzdn/image/upload/v1744454470/Screenshot_2024-10-12_193447_f1kur4.png))
+![Main Weather Interface](https://res.cloudinary.com/dnsjdvzdn/image/upload/v1744454470/Screenshot_2024-10-12_190113_c3stie.png)
+*Figure 1*
+
+![Recent Searches Section](https://res.cloudinary.com/dnsjdvzdn/image/upload/v1744454470/Screenshot_2024-10-12_193447_f1kur4.png)
+*Figure 2*
 
 A responsive weather application that displays current weather conditions and maintains a history of recent searches using MongoDB Atlas.
 
