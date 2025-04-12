@@ -1,4 +1,4 @@
-# Weather App with Recent Search History
+# Real-time Weather web App
 
 ![Main Weather Interface](https://res.cloudinary.com/dnsjdvzdn/image/upload/v1744454470/Screenshot_2024-10-12_190113_c3stie.png)
 *Figure 1*
@@ -42,5 +42,5 @@ A responsive weather application that displays current weather conditions and ma
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/your-username/weather-app.git
-   cd weather-app
+   git clone [https://github.com/kartkp/Real-Time-Weather-Dashboard.git]
+   cd client
