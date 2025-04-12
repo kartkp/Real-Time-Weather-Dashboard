@@ -83,7 +83,7 @@ function App() {
             target="_blank"
             rel="noopener noreferrer"
           >
-            © 2024 Kartikey Pandey.
+            © 2025 Kartikey Pandey.
           </a>
         </p>
       </footer>
