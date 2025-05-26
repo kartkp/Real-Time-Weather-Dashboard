@@ -1,21 +1,21 @@
 # Real-time Weather web App
 
 ![Main Weather Interface](https://res.cloudinary.com/dnsjdvzdn/image/upload/v1744455526/Screenshot_2025-04-12_162759_lranhb.png)
-*Figure 1*
+*SS 1*
 
 ![Recent Searches Section](https://res.cloudinary.com/dnsjdvzdn/image/upload/v1744455368/Screenshot_2025-04-12_162523_upbvag.png)
-*Figure 2*
+#SS 2*
 
 A responsive weather application that displays current weather conditions and maintains a history of recent searches using MongoDB Atlas.
 
 ## Features
 
-- 🌦️ Real-time weather data from OpenWeatherMap API
-- 📍 Automatic location detection
-- 🔍 Manual city search
-- 📊 Recent search history (last 4 searches)
-- 📱 Fully responsive design
-- 🌈 Dynamic background based on temperature
+- Real-time weather data from OpenWeatherMap API
+- Automatic location detection
+- Manual city search
+- Recent search history (last 4 searches)
+- Fully responsive design
+- Dynamic background based on temperature
 
 ## Technologies Used
 
