@@ -4,7 +4,7 @@
 *SS 1*
 
 ![Recent Searches Section](https://res.cloudinary.com/dnsjdvzdn/image/upload/v1744455368/Screenshot_2025-04-12_162523_upbvag.png)
-#SS 2*
+*SS 2*
 
 A responsive weather application that displays current weather conditions and maintains a history of recent searches using MongoDB Atlas.
 
